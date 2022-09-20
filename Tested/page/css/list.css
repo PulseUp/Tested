@@ -1,0 +1,30 @@
+body{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+table, th, td, tr {
+    border: 1px solid grey;
+    height: 30px;
+    font-family: "Times New Roman";
+    font-weight: 500;
+    font-size: 17px;
+    text-align: center;
+}
+
+th {
+    color: #ffebcd;
+    background: black;
+    cursor: pointer;
+    width: 250px;
+}
+
+tbody {
+    background: darkseagreen;
+}
+
+.search{
+    width: 250px;
+    height: 30px;
+    border: 2px solid black;
+}
